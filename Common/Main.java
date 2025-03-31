@@ -3,3 +3,6 @@ public class Main{
         System.out.println("For common puposes");
     }
 }
+/*
+ * Made by OG
+ */
